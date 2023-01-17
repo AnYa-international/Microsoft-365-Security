@@ -14,3 +14,7 @@ These documents are for testing purposes only and must not be used in a producti
 # Disclaimer
 
 These documents are for testing purposes only and must not be used in a production environment. The use of these documents should be done at your own risk. The creator of this repository will not be responsible for any damage that may happen as a result of using these files.
+
+# Contents
+
+WinAPI.xlsm: An Excel file that contains a VBA macro that displays a message box when the file is opened. This macro uses the Windows Application Programming Interface (WinAPI) to achieve this. The macro is designed to work on both 32-bit and 64-bit platforms. 
