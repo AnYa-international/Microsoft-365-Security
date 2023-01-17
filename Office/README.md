@@ -22,3 +22,6 @@ An Excel file that contains a VBA macro that displays a message box when the fil
 
 ## Shell Function.xlsm
 This Excel file contains a VBA script that utilizes the Shell function to open the Calculator application (calc.exe) when the file is opened.
+
+## WScript Shell.xlsm
+This Excel file contains a VBA script that utilizes the WScript.Shell object to open the Calculator application (calc.exe) when the file is opened. 
