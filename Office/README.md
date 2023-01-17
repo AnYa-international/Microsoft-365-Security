@@ -17,4 +17,8 @@ These documents are for testing purposes only and must not be used in a producti
 
 # Contents
 
-WinAPI.xlsm: An Excel file that contains a VBA macro that displays a message box when the file is opened. This macro uses the Windows Application Programming Interface (WinAPI) to achieve this. The macro is designed to work on both 32-bit and 64-bit platforms. 
+## WinAPI.xlsm
+An Excel file that contains a VBA macro that displays a message box when the file is opened. This macro uses the Windows Application Programming Interface (WinAPI) to achieve this. The macro is designed to work on both 32-bit and 64-bit platforms. 
+
+## Shell Function.xlsm
+This Excel file contains a VBA script that utilizes the Shell function to open the Calculator application (calc.exe) when the file is opened.
