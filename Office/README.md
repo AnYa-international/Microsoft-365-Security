@@ -34,3 +34,6 @@ This Excel file contains a VBA script that utilizes the Windows Management Instr
 
 ## Scheduled Task.xlsm
 This Excel file contains a VBA script that utilizes the Windows Task Scheduler to create a new task and run the "calc.exe" application with a specified start time when the file is opened. 
+
+## DDE.xlsx
+This Excel file contains a formula that uses a DDE payload as formula to execute "calc.exe" when the file is opened. 
