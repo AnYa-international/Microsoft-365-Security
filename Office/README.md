@@ -25,3 +25,6 @@ This Excel file contains a VBA script that utilizes the Shell function to open t
 
 ## WScript Shell.xlsm
 This Excel file contains a VBA script that utilizes the WScript.Shell object to open the Calculator application (calc.exe) when the file is opened. 
+
+## Registry Write.xlsm
+This Excel file contains a VBA script that utilizes the WScript.Shell object to write a value to the registry when the file is opened. The script creates a registry key in the "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" path and sets the value of the key to the path of the Calculator application (calc.exe).
