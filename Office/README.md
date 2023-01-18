@@ -55,3 +55,6 @@ This document contains a VBA macro that uses the Microsoft XMLDOM library to tra
 
 ## WinAPI ProxyDll.xlsm
 This Excel document contains a VBA macro that uses a custom DLL called ProxyDll.dll to call the Windows API function MessageBox. The DLL exports a single function called "ProxyMessageBox" that takes the same arguments as the MessageBox function and simply passes them on.
+
+## Action.pptx
+This PowerPoint document contains an Action to execute the Calculator (calc.exe) application.
