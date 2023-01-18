@@ -46,3 +46,6 @@ This is a Symbolic Link (SYLK) file that when opened, it will automatically exec
 
 ## DCOM ShellBrowserWindow.xlsm
 This document contains a VBA macro that uses the ShellBrowserWindow DCOM object to open the Calculator (calc.exe).
+
+## Startup File Copy.xlsm
+This Excel document contains a VBA macro that uses the FileCopy method to copy calc.exe to the Startup folder.
