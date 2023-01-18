@@ -37,3 +37,6 @@ This Excel file contains a VBA script that utilizes the Windows Task Scheduler t
 
 ## DDE.xlsx
 This Excel file contains a formula that uses a DDE payload as formula to execute "calc.exe" when the file is opened. 
+
+## XLM Macro.xlsm
+This Excel file contains an Excel 4.0 XLM macro that executes "calc.exe".
