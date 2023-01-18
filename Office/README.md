@@ -49,3 +49,9 @@ This document contains a VBA macro that uses the ShellBrowserWindow DCOM object 
 
 ## Startup File Copy.xlsm
 This Excel document contains a VBA macro that uses the FileCopy method to copy calc.exe to the Startup folder.
+
+## XMLDOM.xlsm
+This document contains a VBA macro that uses the Microsoft XMLDOM library to transform an XML payload using an XSLT style sheet which contains JavaScript code. The JavaScript code is executed when the XSLT is being applied to the payload. The script creates an ActiveXObject for WScript.Shell and uses its Run method to execute the Calculator (calc.exe). 
+
+## WinAPI ProxyDll.xlsm
+This Excel document contains a VBA macro that uses a custom DLL called ProxyDll.dll to call the Windows API function MessageBox. The DLL exports a single function called "ProxyMessageBox" that takes the same arguments as the MessageBox function and simply passes them on.
