@@ -43,3 +43,6 @@ This Excel file contains an Excel 4.0 XLM macro that executes "calc.exe".
 
 ## SYLK Process.slk
 This is a Symbolic Link (SYLK) file that when opened, it will automatically execute the command to open the Calculator (calc.exe) on windows.
+
+## DCOM ShellBrowserWindow.xlsm
+This document contains a VBA macro that uses the ShellBrowserWindow DCOM object to open the Calculator (calc.exe).
