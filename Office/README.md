@@ -28,3 +28,6 @@ This Excel file contains a VBA script that utilizes the WScript.Shell object to 
 
 ## Registry Write.xlsm
 This Excel file contains a VBA script that utilizes the WScript.Shell object to write a value to the registry when the file is opened. The script creates a registry key in the "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" path and sets the value of the key to the path of the Calculator application (calc.exe).
+
+## WMI Process.xlsm
+This Excel file contains a VBA script that utilizes the Windows Management Instrumentation (WMI) to create a new process and run the "calc.exe" application when the file is opened. 
