@@ -40,3 +40,6 @@ This Excel file contains a formula that uses a DDE payload as formula to execute
 
 ## XLM Macro.xlsm
 This Excel file contains an Excel 4.0 XLM macro that executes "calc.exe".
+
+## SYLK Process.slk
+This is a Symbolic Link (SYLK) file that when opened, it will automatically execute the command to open the Calculator (calc.exe) on windows.
