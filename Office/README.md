@@ -31,3 +31,6 @@ This Excel file contains a VBA script that utilizes the WScript.Shell object to 
 
 ## WMI Process.xlsm
 This Excel file contains a VBA script that utilizes the Windows Management Instrumentation (WMI) to create a new process and run the "calc.exe" application when the file is opened. 
+
+## Scheduled Task.xlsm
+This Excel file contains a VBA script that utilizes the Windows Task Scheduler to create a new task and run the "calc.exe" application with a specified start time when the file is opened. 
