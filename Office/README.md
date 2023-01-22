@@ -82,3 +82,6 @@ This OneNote document contains an attached VBS script that is hidden behind a bu
 
 ## Download Binary.xlsm
 This Excel document contains a VBA macro that uses the Microsoft XMLHTTP object to download a binary file in the form of a Windows executable (.exe) from an URL. The macro then saves the downloaded file as a text file (.txt) on the local file system. Finally, it renames the text file to the original executable file format (*.exe).
+
+## RDS WScript Shell.xlsm
+This Excel document contains a VBA macro which uses Remote Data Services (RDS) to create an instance of the WScript.Shell object and execute the Calculator application (calc.exe).
