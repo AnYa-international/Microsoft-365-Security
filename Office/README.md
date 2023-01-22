@@ -70,3 +70,6 @@ This Excel document contains a VBA macro which uses Distributed Component Object
 
 ## ShellWindows DCOM.xlsm
 This Excel document contains a VBA macro which creates an instance of the ShellWindows object using the DCOM class identifier and uses ShellExecute property to execute the Calculator (calc.exe) application.
+
+## COM Hijacking.xlsm
+This Excel document contains a VBA macro which uses the COM Hijacking technique to execute the Calculator (calc.exe). The macro creates a new registry entry to hold values for the COM object and adds the URL to the payload to the scriptletKey value. Then it uses the GetObject method to trigger the payload.
