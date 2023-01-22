@@ -58,3 +58,6 @@ This Excel document contains a VBA macro that uses a custom DLL called ProxyDll.
 
 ## Action.pptx
 This PowerPoint document contains an Action to execute the Calculator (calc.exe) application.
+
+## Shell Application.xlsm
+The macro contained within this Excel document to execute a Calculator (calc.exe) through the use of the "Shell.Application" object.
