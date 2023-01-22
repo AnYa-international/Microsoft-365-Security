@@ -79,3 +79,6 @@ This Excel document contains a VBA macro which uses the FollowHyperlink method t
 
 ## VBS Attachment.one
 This OneNote document contains an attached VBS script that is hidden behind a button. The button is designed to look like a harmless element and appears in front of the VBS object, making it less likely for a victim to suspect any malicious intent. When the victim double-clicks the button, the VBS script is executed, and the Calculator application (calc.exe) is launched.
+
+## Download Binary.xlsm
+This Excel document contains a VBA macro that uses the Microsoft XMLHTTP object to download a binary file in the form of a Windows executable (.exe) from an URL. The macro then saves the downloaded file as a text file (.txt) on the local file system. Finally, it renames the text file to the original executable file format (*.exe).
