@@ -64,3 +64,6 @@ The macro contained within this Excel document to execute a Calculator (calc.exe
 
 ## Excel DDE.xlsm
 This Excel document contains a VBA macro which uses Dynamic Data Exchange (DDE) to execute the Calculator application (calc.exe). The macro creates an instance of the Excel Application object and uses the DEInitiate method to execute the Calculator (calc.exe) application.
+
+## Outlook DCOM.xlsm
+This Excel document contains a VBA macro which uses Distributed Component Object Model (DCOM) to execute the Calculator application (calc.exe). The macro creates an instance of the Outlook Application object and uses the CreateObject method to create an instance of the WScript.Shell object to execute the Calculator application. 
