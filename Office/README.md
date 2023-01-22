@@ -67,3 +67,6 @@ This Excel document contains a VBA macro which uses Dynamic Data Exchange (DDE) 
 
 ## Outlook DCOM.xlsm
 This Excel document contains a VBA macro which uses Distributed Component Object Model (DCOM) to execute the Calculator application (calc.exe). The macro creates an instance of the Outlook Application object and uses the CreateObject method to create an instance of the WScript.Shell object to execute the Calculator application. 
+
+## ShellWindows DCOM.xlsm
+This Excel document contains a VBA macro which creates an instance of the ShellWindows object using the DCOM class identifier and uses ShellExecute property to execute the Calculator (calc.exe) application.
