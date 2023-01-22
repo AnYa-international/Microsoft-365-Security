@@ -61,3 +61,6 @@ This PowerPoint document contains an Action to execute the Calculator (calc.exe)
 
 ## Shell Application.xlsm
 The macro contained within this Excel document to execute a Calculator (calc.exe) through the use of the "Shell.Application" object.
+
+## Excel DDE.xlsm
+This Excel document contains a VBA macro which uses Dynamic Data Exchange (DDE) to execute the Calculator application (calc.exe). The macro creates an instance of the Excel Application object and uses the DEInitiate method to execute the Calculator (calc.exe) application.
